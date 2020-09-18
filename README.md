@@ -2,11 +2,11 @@
 
 ## Team members
 
-Gabe Ehrich
-Michaela Fonseca  
-Abdul Keashem  
-Jamie Kerr  
-Yen Le  
-Xi Xi Lin  
-Kevin Liu  
-Brian Meehan  
++ Gabe Ehrich (GaEhrlich127)
++ Michaela Fonseca  
++ Abdul Keashem  
++ Jamie Kerr  
++ Yen Le  
++ Xi Xi Lin  
++ Kevin Liu  
++ Brian Meehan  
