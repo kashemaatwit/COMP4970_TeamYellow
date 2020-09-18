@@ -2,7 +2,7 @@
 
 ## Team members
 
-Gabe Ehrich  
+Gabe Ehrich (GaEhrlich127)
 Michaela Fonseca  
 Abdul Keashem  
 Jamie Kerr  
