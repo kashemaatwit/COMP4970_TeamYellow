@@ -4,7 +4,7 @@
 
 + Gabe Ehrich (GaEhrlich127)
 + Michaela Fonseca  
-+ Abdul Keashem  
++ Abdul Kashem  
 + Jamie Kerr  
 + Yen Le (yennle)
 + Xi Xi Lin (xixilinn)  
