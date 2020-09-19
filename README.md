@@ -8,5 +8,5 @@
 + Jamie Kerr  
 + Yen Le (yennle)
 + Xi Xi Lin (xixilinn)  
-+ Kevin Liu  
++ Kevin Liu (Lim6atwit) 
 + Brian Meehan  
