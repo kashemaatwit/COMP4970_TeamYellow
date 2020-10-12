@@ -1,7 +1,0 @@
-CREATE TABLE `schedulemaker`.`session` (
-  `Session_id` INT NOT NULL AUTO_INCREMENT,
-  `Session_name` VARCHAR(45) NOT NULL,
-  `Time_id` INT NOT NULL,
-  `Room_id` INT NOT NULL,
-  `Speaker_id` INT NOT NULL,
-  PRIMARY KEY (`Session_id`));

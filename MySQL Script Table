@@ -1,0 +1,19 @@
+CREATE TABLE `schedulemaker`.`session` (
+  `Session_id` INT NOT NULL AUTO_INCREMENT,
+  `Session_name` VARCHAR(45) NOT NULL,
+  PRIMARY KEY (`Session_id`));
+
+
+
+CREATE TABLE `schedulemaker`.`speaker` (
+  `Speaker_id` INT NOT NULL AUTO_INCREMENT,
+  `Email` VARCHAR(45) NULL,
+  `Cell_phone` VARCHAR(45) NULL,
+  `Day_of_phone` VARCHAR(45) NULL,
+  `Speaker_name` VARCHAR(45) NOT NULL,
+  PRIMARY KEY (`Speaker_id`));
+  
+  
+  
+  
+  
