@@ -38,6 +38,20 @@ FOREIGN KEY(Time_id) REFERENCES timeslot(Time_id),
 FOREIGN KEY(Room_id) REFERENCES room(room_id)
 );
 
+CREATE TABLE seatcount(
+count_id int AUTO_INCREMENT NOT NULL,
+head_count int,
+middle_count int,
+end_count int,
+Session_id int NOT NULL,
+PRIMARY KEY(count_id),
+FOREIGN KEY(Session_id) REFERENCES session(Session_id)
+);
+
+
+
+
+
 
 
   
