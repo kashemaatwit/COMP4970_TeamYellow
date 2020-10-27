@@ -29,6 +29,6 @@ time_id int NOT NULL,
 room_id int NOT NULL,
 PRIMARY KEY(session_id),
 FOREIGN KEY(speaker_id) REFERENCES speaker(speaker_id),
-FOREIGN KEY(time_id) REFERENCES timeslot(time_id),
+FOREIGN KEY(time_id) REFERENCES time_slot(time_id),
 FOREIGN KEY(room_id) REFERENCES room(room_id)
 );
