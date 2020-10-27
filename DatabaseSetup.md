@@ -2,7 +2,7 @@
 ## (only guaranteed to work for Windows machines)
 
 1.) Download [MySQL Community Edition 8.0](https://dev.mysql.com/downloads/installer/) 
-
+- Either option shown works (2.5M, 405.2M)
 - In the installer, use all of the default options. Write down both the **port number and your root password**, you'll need both later in development
 
 2.) Create the database
