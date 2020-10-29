@@ -1,10 +1,10 @@
 {
-  "name": "COMP4970_TeamYellow",
+  "name": "comp4970_teamyellow",
   "version": "1.0.0",
   "description": "Boston Code Camp Final Project",
   "main": "index.js",
   "scripts": {
-    "start": "node src/index.js",
+    "start": "nodemon src/index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -17,5 +17,11 @@
   "bugs": {
     "url": "https://github.com/Lim6atwit/COMP4970_TeamYellow/issues"
   },
-  "homepage": "https://github.com/Lim6atwit/COMP4970_TeamYellow#readme"
+  "homepage": "https://github.com/Lim6atwit/COMP4970_TeamYellow#readme",
+  "devDependencies": {
+    "@babel/core": "^7.12.3",
+    "@babel/node": "^7.12.1",
+    "@babel/preset-env": "^7.12.1",
+    "nodemon": "^2.0.6"
+  }
 }
