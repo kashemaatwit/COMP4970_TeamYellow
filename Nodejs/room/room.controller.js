@@ -4,7 +4,7 @@ const {
     QueryRoom,
     ModifyRoomById,
     deleteRoom,
-    QuerySortedRoom
+    
   } 
   = require("./room.service");
   
