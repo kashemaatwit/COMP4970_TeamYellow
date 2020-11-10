@@ -88,16 +88,4 @@ module.exports = {
   
   },
 
-  QuerySortedRoom: callBack => {
-    pool.query(
-      `SELECT * FROM room order by room_name`,
-      [],
-      (error, results, fields) => {
-        if (error) {
-          callBack(error);
-        }
-        return callBack(null, results);
-      }
-    );
-  }
 }
