@@ -98,21 +98,6 @@ const {
         });
       }
     } else res.send({ message: `room was deleted successfully!` });
-  }
-  );
-
-},
-
-QuerySortedRoom: (req, res) => {
-  QuerySortedRoom((err, results) => {
-    if (err) {
-      console.log(err);
-      return;
-    }
-    return res.json({
-      success: 1,
-      data: results
-    });
   });
-}
+},
   }
